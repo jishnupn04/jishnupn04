@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyyy, I am Jishnu,A CS student and a software engineering intern.<br>Loves Web Dev and an AI/ML enthusiast
+Heyyy, I am Jishnu,A CS student and a software engineering intern.<br>An AI/ML enthusiast who also loves web dev
 
 
 ## 🌐 Socials:
