@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an animated portfolio with framer motion<br>🌱 I’m currently learning Game development with Unity<br>💬 Ask me about React,Machine Learning,Django
+🔭 I’m currently working on a college app called "EXACT"<br>🌱 I’m currently learning Game development with Unity<br>💬 Ask me about React,Machine Learning,Django
 
 
 ## 🌐 Socials:
