@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a college app called "EXACT"<br>🌱 I’m currently learning Game development with Unity<br>💬 Ask me about React,Machine Learning,Django
-
+- 🚀 Budding software developer & 3rd-year AI/ML student
+- 🧠 I’m currently learning Next.js t hrough their docs
+- ✅ Just finished creating a LaTeX question paper generating app with React and Django
+- 📩 How to reach me: jishnuputhilotneelamana@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jishnu-pn-6822762a5) 
